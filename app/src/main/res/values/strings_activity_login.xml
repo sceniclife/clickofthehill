@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">log in</string>
+    <string name="title_activity_signup">sign up</string>
+    <string name="prompt_username">username</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_password_again">re-enter password</string>
+    <string name="error_intro">"please "</string>
+    <string name="error_blank_username">enter a username</string>
+    <string name="error_blank_password">enter a password</string>
+    <string name="error_mismatched_passwords">enter the same password twice</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+    <string name="progress_login">logging you in&#8230;</string>
+    <string name="progress_signup">signing you up&#8230;</string>
+
+</resources>

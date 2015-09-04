@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-497e37feefa1c0351d519f1407e17f2ab3173c3f.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-ea0e87d3c364ea883fb128b2bd1728e332c6e937.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-c846572891e0fb9ad48e7f3f5947f43875396c62.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-90a64733fe63dad1b435c23dd169eb43a2bb3549.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-f34d50a5797ede7bf1232d72459ee6e91e10a666.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-27cc09e4d8659d9621e635f608bc7bae180be35b.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-5e39b70ed55aa116cb783d701b7fe03dc325bc9f.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-afdb89e455cad194d8b3f0cf1e9580879f78c548.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-d84a4a30f2299ee10b802883639c82952f7892ce.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-eec2941946ce867ae20c241f6f2becc42176f5eb.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-2b68a1564be69d3e4a59e3aed90a6f32e488586c.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1e85d8b00645167c8ff8c0ece0e761a070b800ae.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-fb17b890f344ea181d4ae726fec07af5464e8c1e.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-e4233f0d354b34e1955e3ac803a2a43ae2e425a7.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-6b9e3c2a0ea0e96e840874a15b602eeef0fb648c.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-d0273e3a6dbbf95d0581636b020e4f6e617ad725.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-e4ad90cf05356bec292918097eeedb42789935e0.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-f2de3c54522a2e3767ef3f0c10d1f6d6a94b80e1.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-981d29fbaac84428daf61bfb225d774c42305a65.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-0f85e990b65c705600549984a649f4a986160d3e.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-957a6c09f61d1c97adf16a420f1405714414a28a.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-75e0b19112a45d6bc687604856f4296111ff86d0.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-d1785c3bbc5aaa11478bba1ed67a1f91c61b0e74.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-a8ec96d6ef479526005c5de1906f2b79a6beaed5.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-212abf8f067ec8bc9d8fdc1b90b52883fa2200d2.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-6d06e49da74c90e26535930154f30550e46fe80b.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/classes-e4ae9cacffd6c36dcd3f6c472cffa64df0d43f5c.jar" />
+    </item>
+    <item
+        jar="/Users/vietle/AndroidStudioProjects/clickofthehill/app/libs/Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="/Users/vietle/AndroidStudioProjects/clickofthehill/app/build/intermediates/pre-dexed/debug/Parse-1.6.0-6b7b85681bc613201a18c562904920c860b916ab.jar" />
+    </item>
+
+</items>

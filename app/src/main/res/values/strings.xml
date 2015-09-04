@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">click of the hill</string>
+    <string name="action_settings">settings</string>
+    <string name="activity_newhill_title">create a hill</string>
+    <string name="challenge">challenge</string>
+    <string name="character_count_placeholder">0/130</string>
+    <string name="created_by">created by</string>
+    <string name="creator">viet</string>
+    <string name="default_win_message">enter a message to about your win!</string>
+    <string name="login">log in</string>
+    <string name="logout_full">log out</string>
+    <string name="lost_message">press to exit</string>
+    <string name="newhill">create new hill</string>
+    <string name="post_message">post message</string>
+    <string name="post_out_of_range">hill out of range</string>
+    <string name="progress_post">posting&#8230;</string>
+    <string name="search_distance">search distance</string>
+    <string name="settings_distance_format">%d feet</string>
+    <string name="signup">sign up</string>
+    <string name="startChallenge">click to start</string>
+    <string name="tie_message">press to exit</string>
+    <string name="title_activity_settings">settings</string>
+
+</resources>
